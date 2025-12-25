@@ -1,0 +1,12 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Likun",
+  "license": "ISC",
+  "description": "a backend project created by me."
+}
